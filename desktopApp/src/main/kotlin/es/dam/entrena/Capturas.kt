@@ -66,7 +66,7 @@ fun main(args: Array<String>) {
 
     @Composable
     fun entreno(c: ControlEntrenamiento, ahora: Long, p: Postura, voz: EstadoVoz, detalle: String = "", prueba: Boolean = false) =
-        PantallaEntrenamiento(c, ahora, p, {}, voz, detalle, {}, {}, "Postura: 28 imágenes/s · Voz: 850 ms",
+        PantallaEntrenamiento(c, ahora, p, {}, voz, detalle, {}, {}, "Postura: 10 imágenes/s · Voz: sin medir\nRodilla: 95° · mín. última bajada: 95° · máx. última subida: 175°",
             sinCamaraInicial = true, herramientasInicial = prueba)
 
     val pantallas: List<Pair<String, @Composable () -> Unit>> = listOf(

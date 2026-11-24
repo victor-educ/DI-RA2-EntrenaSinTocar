@@ -44,6 +44,12 @@ fun App() = TemaEntrena {
     // Medidas en vivo (para el informe): imágenes analizadas por segundo.
     var fps by remember { mutableIntStateOf(0) }
     var cuentaImagenes by remember { mutableIntStateOf(0) }
+    // Calibración de los umbrales: ángulo de rodilla ahora, mínimo de la última bajada y máximo de la última subida.
+    var angulo by remember { mutableStateOf<Float?>(null) }
+    var minimoBajada by remember { mutableStateOf<Float?>(null) }
+    var maximoSubida by remember { mutableStateOf<Float?>(null) }
+    var minimoActual by remember { mutableStateOf(999f) }
+    var maximoActual by remember { mutableStateOf(0f) }
 
     // La cámara y Vosk avisan desde otros hilos: se pasa todo por canales y se trata en el hilo de la interfaz.
     val posturas = remember { Channel<Postura>(Channel.CONFLATED) }
@@ -93,6 +99,13 @@ fun App() = TemaEntrena {
         for (p in posturas) {
             postura = p
             cuentaImagenes++
+            anguloParaContar(p)?.let { g ->
+                angulo = g
+                minimoActual = minOf(minimoActual, g); maximoActual = maxOf(maximoActual, g)
+                // Se cierra una bajada al volver a estar de pie, y una subida al volver a agacharse.
+                if (g > 150f && minimoActual < 140f) { minimoBajada = minimoActual; minimoActual = 999f }
+                if (g < 130f && maximoActual > 150f) { maximoSubida = maximoActual; maximoActual = 0f }
+            }
             if (pantalla == Pantalla.ENTRENAMIENTO) control.postura(p, ahora())
         }
     }
@@ -118,6 +131,9 @@ fun App() = TemaEntrena {
     val medidas = buildString {
         append("Postura: $fps imágenes/s")
         append(" · Voz: ").append(escucha.latenciaMs?.let { "$it ms" } ?: "sin medir")
+        append("\nRodilla: ").append(angulo?.let { "${it.toInt()}°" } ?: "-")
+        append(" · mín. última bajada: ").append(minimoBajada?.let { "${it.toInt()}°" } ?: "-")
+        append(" · máx. última subida: ").append(maximoSubida?.let { "${it.toInt()}°" } ?: "-")
         escucha.error?.let { append("\n").append(it) }
     }
 
