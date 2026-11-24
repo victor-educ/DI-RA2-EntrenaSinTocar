@@ -8,8 +8,9 @@ Cuenta las repeticiones con la cámara y solo cuenta cuando la persona está bie
 Autor: Víctor Sellés Estevan (trabajo individual, he hecho yo todas las partes: diseño en Figma,
 código, pruebas, medidas, informe y vídeo).
 
-- Diseño en Figma: ver el enlace en el informe (`DI_RA2_Informe_herramientas.pdf`).
-- Vídeo de demostración: incluido en el ZIP de entrega.
+- Repositorio: https://github.com/victor-educ/DI-RA2-EntrenaSinTocar
+- Diseño en Figma: https://www.figma.com/design/JPCeH8JbT22ENefbJLK1GY/DI-RA2---Entrena-sin-tocar
+- Informe de herramientas y vídeo de demostración: en el ZIP de entrega (`DI_RA2_Selles_Estevan.zip`).
 
 ## Cómo ejecutarlo
 
