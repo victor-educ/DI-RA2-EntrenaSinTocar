@@ -1,0 +1,47 @@
+# Versiones compatibles con AGP 9.1.0, el máximo que admiten IntelliJ IDEA y Android Studio
+# estables en noviembre de 2026 (con Gradle 9.3.1).
+[versions]
+agp = "9.1.0"
+kotlin = "2.4.10"
+composeMultiplatform = "1.11.1"
+composeMaterial3 = "1.11.0-alpha07"   # la que publica JetBrains con Compose Multiplatform 1.11.1
+activityCompose = "1.13.0"
+coreKtx = "1.18.0"
+lifecycle = "2.10.0"
+camerax = "1.5.0"
+mlkitPose = "18.0.0-beta5"
+mlkitFace = "16.1.7"
+mediapipe = "0.10.26"
+sceneview = "4.33.0"
+coroutines = "1.10.2"
+opencv = "4.9.0-0"
+vosk = "0.3.45"
+
+[libraries]
+compose-runtime = { module = "org.jetbrains.compose.runtime:runtime", version.ref = "composeMultiplatform" }
+compose-foundation = { module = "org.jetbrains.compose.foundation:foundation", version.ref = "composeMultiplatform" }
+compose-ui = { module = "org.jetbrains.compose.ui:ui", version.ref = "composeMultiplatform" }
+compose-material3 = { module = "org.jetbrains.compose.material3:material3", version.ref = "composeMaterial3" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "activityCompose" }
+androidx-core-ktx = { module = "androidx.core:core-ktx", version.ref = "coreKtx" }
+androidx-lifecycle-runtime-compose = { module = "androidx.lifecycle:lifecycle-runtime-compose", version.ref = "lifecycle" }
+camerax-camera2 = { module = "androidx.camera:camera-camera2", version.ref = "camerax" }
+camerax-lifecycle = { module = "androidx.camera:camera-lifecycle", version.ref = "camerax" }
+camerax-view = { module = "androidx.camera:camera-view", version.ref = "camerax" }
+mlkit-pose = { module = "com.google.mlkit:pose-detection", version.ref = "mlkitPose" }
+mlkit-face = { module = "com.google.mlkit:face-detection", version.ref = "mlkitFace" }
+mediapipe-tasks-vision = { module = "com.google.mediapipe:tasks-vision", version.ref = "mediapipe" }
+sceneview-ar = { module = "io.github.sceneview:arsceneview", version.ref = "sceneview" }
+
+kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "coroutines" }
+kotlinx-coroutines-swing = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-swing", version.ref = "coroutines" }
+opencv = { module = "org.openpnp:opencv", version.ref = "opencv" }
+vosk = { module = "com.alphacephei:vosk", version.ref = "vosk" }
+
+[plugins]
+kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+androidMultiplatformLibrary = { id = "com.android.kotlin.multiplatform.library", version.ref = "agp" }
+kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+composeMultiplatform = { id = "org.jetbrains.compose", version.ref = "composeMultiplatform" }
+composeCompiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }

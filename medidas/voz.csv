@@ -1,0 +1,721 @@
+modo;voz;condicion;frase;esperado;reconocido;accion;acierto;latencia_ms
+GRAMATICA;Mónica;cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;864
+GRAMATICA;Mónica;lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;864
+GRAMATICA;Mónica;cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;848
+GRAMATICA;Mónica;lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;849
+GRAMATICA;Mónica;cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;707
+GRAMATICA;Mónica;lejos;sigue;EMPEZAR;sigue;EMPEZAR;1;706
+GRAMATICA;Mónica;cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;974
+GRAMATICA;Mónica;lejos;seguir;EMPEZAR;seguir;EMPEZAR;1;672
+GRAMATICA;Mónica;cerca;pausa;PAUSA;pausa;PAUSA;1;686
+GRAMATICA;Mónica;lejos;pausa;PAUSA;pausa;PAUSA;1;686
+GRAMATICA;Mónica;cerca;para;PAUSA;para;PAUSA;1;831
+GRAMATICA;Mónica;lejos;para;PAUSA;para;PAUSA;1;831
+GRAMATICA;Mónica;cerca;parar;PAUSA;parar;PAUSA;1;805
+GRAMATICA;Mónica;lejos;parar;PAUSA;parar;PAUSA;1;805
+GRAMATICA;Mónica;cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;783
+GRAMATICA;Mónica;lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;783
+GRAMATICA;Mónica;cerca;terminar;TERMINAR;terminar;TERMINAR;1;896
+GRAMATICA;Mónica;lejos;terminar;TERMINAR;terminar;TERMINAR;1;896
+GRAMATICA;Mónica;cerca;termina;TERMINAR;termina;TERMINAR;1;934
+GRAMATICA;Mónica;lejos;termina;TERMINAR;termina;TERMINAR;1;934
+GRAMATICA;Mónica;cerca;ayuda;AYUDA;ayuda;AYUDA;1;967
+GRAMATICA;Mónica;lejos;ayuda;AYUDA;ayuda;AYUDA;1;966
+GRAMATICA;Mónica;cerca;favorito;FAVORITO;favorito;FAVORITO;1;817
+GRAMATICA;Mónica;lejos;favorito;FAVORITO;favorito;FAVORITO;1;818
+GRAMATICA;Mónica;cerca;hola qué tal;-;;-;1;1533
+GRAMATICA;Mónica;lejos;hola qué tal;-;;-;1;1533
+GRAMATICA;Mónica;cerca;me duele la pierna;-;empieza;EMPEZAR;0;957
+GRAMATICA;Mónica;lejos;me duele la pierna;-;;-;1;1529
+GRAMATICA;Mónica;cerca;vamos bien;-;;-;1;1537
+GRAMATICA;Mónica;lejos;vamos bien;-;siguiente;SIGUIENTE;0;895
+GRAMATICA;Mónica;cerca;qué calor hace;-;;-;1;1531
+GRAMATICA;Mónica;lejos;qué calor hace;-;;-;1;1532
+GRAMATICA;Mónica;cerca;esto cuesta mucho;-;;-;1;1539
+GRAMATICA;Mónica;lejos;esto cuesta mucho;-;;-;1;1539
+GRAMATICA;Mónica;cerca;qué hora es;-;;-;1;1549
+GRAMATICA;Mónica;lejos;qué hora es;-;;-;1;1550
+GRAMATICA;Mónica;cerca;ya casi está;-;siguiente;SIGUIENTE;0;805
+GRAMATICA;Mónica;lejos;ya casi está;-;siguiente;SIGUIENTE;0;303
+GRAMATICA;Mónica;cerca;venga una más;-;;-;1;1548
+GRAMATICA;Mónica;lejos;venga una más;-;;-;1;1548
+GRAMATICA;Eddy (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;876
+GRAMATICA;Eddy (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;876
+GRAMATICA;Eddy (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;879
+GRAMATICA;Eddy (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;879
+GRAMATICA;Eddy (Español (España));cerca;sigue;EMPEZAR;seguir;EMPEZAR;1;730
+GRAMATICA;Eddy (Español (España));lejos;sigue;EMPEZAR;seguir;EMPEZAR;1;730
+GRAMATICA;Eddy (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;997
+GRAMATICA;Eddy (Español (España));lejos;seguir;EMPEZAR;seguir;EMPEZAR;1;997
+GRAMATICA;Eddy (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;792
+GRAMATICA;Eddy (Español (España));lejos;pausa;PAUSA;pausa;PAUSA;1;790
+GRAMATICA;Eddy (Español (España));cerca;para;PAUSA;para;PAUSA;1;819
+GRAMATICA;Eddy (Español (España));lejos;para;PAUSA;para;PAUSA;1;818
+GRAMATICA;Eddy (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;745
+GRAMATICA;Eddy (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;746
+GRAMATICA;Eddy (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;879
+GRAMATICA;Eddy (Español (España));lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;880
+GRAMATICA;Eddy (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;874
+GRAMATICA;Eddy (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;876
+GRAMATICA;Eddy (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;972
+GRAMATICA;Eddy (Español (España));lejos;termina;TERMINAR;termina;TERMINAR;1;972
+GRAMATICA;Eddy (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;723
+GRAMATICA;Eddy (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;725
+GRAMATICA;Eddy (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;849
+GRAMATICA;Eddy (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;851
+GRAMATICA;Eddy (Español (España));cerca;hola qué tal;-;;-;1;1925
+GRAMATICA;Eddy (Español (España));lejos;hola qué tal;-;;-;1;1925
+GRAMATICA;Eddy (Español (España));cerca;me duele la pierna;-;ayuda;AYUDA;0;953
+GRAMATICA;Eddy (Español (España));lejos;me duele la pierna;-;;-;1;1918
+GRAMATICA;Eddy (Español (España));cerca;vamos bien;-;;-;1;1908
+GRAMATICA;Eddy (Español (España));lejos;vamos bien;-;;-;1;1908
+GRAMATICA;Eddy (Español (España));cerca;qué calor hace;-;;-;1;1909
+GRAMATICA;Eddy (Español (España));lejos;qué calor hace;-;;-;1;1906
+GRAMATICA;Eddy (Español (España));cerca;esto cuesta mucho;-;;-;1;1932
+GRAMATICA;Eddy (Español (España));lejos;esto cuesta mucho;-;;-;1;1934
+GRAMATICA;Eddy (Español (España));cerca;qué hora es;-;;-;1;1941
+GRAMATICA;Eddy (Español (España));lejos;qué hora es;-;;-;1;1941
+GRAMATICA;Eddy (Español (España));cerca;ya casi está;-;;-;1;1917
+GRAMATICA;Eddy (Español (España));lejos;ya casi está;-;;-;1;1919
+GRAMATICA;Eddy (Español (España));cerca;venga una más;-;;-;1;1950
+GRAMATICA;Eddy (Español (España));lejos;venga una más;-;;-;1;1954
+GRAMATICA;Flo (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;879
+GRAMATICA;Flo (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;879
+GRAMATICA;Flo (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;880
+GRAMATICA;Flo (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;880
+GRAMATICA;Flo (Español (España));cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;730
+GRAMATICA;Flo (Español (España));lejos;sigue;EMPEZAR;;-;0;1918
+GRAMATICA;Flo (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;1007
+GRAMATICA;Flo (Español (España));lejos;seguir;EMPEZAR;seguir;EMPEZAR;1;1007
+GRAMATICA;Flo (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;791
+GRAMATICA;Flo (Español (España));lejos;pausa;PAUSA;pausa;PAUSA;1;791
+GRAMATICA;Flo (Español (España));cerca;para;PAUSA;para;PAUSA;1;821
+GRAMATICA;Flo (Español (España));lejos;para;PAUSA;para;PAUSA;1;821
+GRAMATICA;Flo (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;764
+GRAMATICA;Flo (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;764
+GRAMATICA;Flo (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;883
+GRAMATICA;Flo (Español (España));lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;883
+GRAMATICA;Flo (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;894
+GRAMATICA;Flo (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;894
+GRAMATICA;Flo (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;670
+GRAMATICA;Flo (Español (España));lejos;termina;TERMINAR;termina;TERMINAR;1;971
+GRAMATICA;Flo (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;724
+GRAMATICA;Flo (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;724
+GRAMATICA;Flo (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;856
+GRAMATICA;Flo (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;856
+GRAMATICA;Flo (Español (España));cerca;hola qué tal;-;;-;1;1922
+GRAMATICA;Flo (Español (España));lejos;hola qué tal;-;;-;1;1922
+GRAMATICA;Flo (Español (España));cerca;me duele la pierna;-;ayuda;AYUDA;0;1917
+GRAMATICA;Flo (Español (España));lejos;me duele la pierna;-;;-;1;1916
+GRAMATICA;Flo (Español (España));cerca;vamos bien;-;;-;1;1937
+GRAMATICA;Flo (Español (España));lejos;vamos bien;-;;-;1;1937
+GRAMATICA;Flo (Español (España));cerca;qué calor hace;-;;-;1;1914
+GRAMATICA;Flo (Español (España));lejos;qué calor hace;-;;-;1;1915
+GRAMATICA;Flo (Español (España));cerca;esto cuesta mucho;-;;-;1;1926
+GRAMATICA;Flo (Español (España));lejos;esto cuesta mucho;-;;-;1;1927
+GRAMATICA;Flo (Español (España));cerca;qué hora es;-;;-;1;1940
+GRAMATICA;Flo (Español (España));lejos;qué hora es;-;;-;1;1941
+GRAMATICA;Flo (Español (España));cerca;ya casi está;-;;-;1;1918
+GRAMATICA;Flo (Español (España));lejos;ya casi está;-;;-;1;1918
+GRAMATICA;Flo (Español (España));cerca;venga una más;-;;-;1;1946
+GRAMATICA;Flo (Español (España));lejos;venga una más;-;;-;1;1946
+GRAMATICA;Reed (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;877
+GRAMATICA;Reed (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;877
+GRAMATICA;Reed (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;879
+GRAMATICA;Reed (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;879
+GRAMATICA;Reed (Español (España));cerca;sigue;EMPEZAR;seguir;EMPEZAR;1;731
+GRAMATICA;Reed (Español (España));lejos;sigue;EMPEZAR;sigue;EMPEZAR;1;1918
+GRAMATICA;Reed (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;978
+GRAMATICA;Reed (Español (España));lejos;seguir;EMPEZAR;seguir;EMPEZAR;1;979
+GRAMATICA;Reed (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;792
+GRAMATICA;Reed (Español (España));lejos;pausa;PAUSA;pausa;PAUSA;1;791
+GRAMATICA;Reed (Español (España));cerca;para;PAUSA;para;PAUSA;1;820
+GRAMATICA;Reed (Español (España));lejos;para;PAUSA;para;PAUSA;1;820
+GRAMATICA;Reed (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;746
+GRAMATICA;Reed (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;747
+GRAMATICA;Reed (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;880
+GRAMATICA;Reed (Español (España));lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;880
+GRAMATICA;Reed (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;878
+GRAMATICA;Reed (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;878
+GRAMATICA;Reed (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;966
+GRAMATICA;Reed (Español (España));lejos;termina;TERMINAR;terminar;TERMINAR;1;965
+GRAMATICA;Reed (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;725
+GRAMATICA;Reed (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;724
+GRAMATICA;Reed (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;843
+GRAMATICA;Reed (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;844
+GRAMATICA;Reed (Español (España));cerca;hola qué tal;-;;-;1;1925
+GRAMATICA;Reed (Español (España));lejos;hola qué tal;-;;-;1;1926
+GRAMATICA;Reed (Español (España));cerca;me duele la pierna;-;ayuda;AYUDA;0;953
+GRAMATICA;Reed (Español (España));lejos;me duele la pierna;-;;-;1;1917
+GRAMATICA;Reed (Español (España));cerca;vamos bien;-;;-;1;1908
+GRAMATICA;Reed (Español (España));lejos;vamos bien;-;;-;1;1908
+GRAMATICA;Reed (Español (España));cerca;qué calor hace;-;;-;1;1909
+GRAMATICA;Reed (Español (España));lejos;qué calor hace;-;;-;1;1909
+GRAMATICA;Reed (Español (España));cerca;esto cuesta mucho;-;;-;1;1916
+GRAMATICA;Reed (Español (España));lejos;esto cuesta mucho;-;;-;1;1917
+GRAMATICA;Reed (Español (España));cerca;qué hora es;-;;-;1;1941
+GRAMATICA;Reed (Español (España));lejos;qué hora es;-;;-;1;1941
+GRAMATICA;Reed (Español (España));cerca;ya casi está;-;;-;1;1917
+GRAMATICA;Reed (Español (España));lejos;ya casi está;-;;-;1;1919
+GRAMATICA;Reed (Español (España));cerca;venga una más;-;;-;1;1950
+GRAMATICA;Reed (Español (España));lejos;venga una más;-;;-;1;1953
+GRAMATICA;Sandy (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;903
+GRAMATICA;Sandy (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;903
+GRAMATICA;Sandy (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;879
+GRAMATICA;Sandy (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;880
+GRAMATICA;Sandy (Español (España));cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;731
+GRAMATICA;Sandy (Español (España));lejos;sigue;EMPEZAR;sigue;EMPEZAR;1;1918
+GRAMATICA;Sandy (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;1012
+GRAMATICA;Sandy (Español (España));lejos;seguir;EMPEZAR;;-;0;1992
+GRAMATICA;Sandy (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;789
+GRAMATICA;Sandy (Español (España));lejos;pausa;PAUSA;;-;0;1907
+GRAMATICA;Sandy (Español (España));cerca;para;PAUSA;para;PAUSA;1;819
+GRAMATICA;Sandy (Español (España));lejos;para;PAUSA;para;PAUSA;1;819
+GRAMATICA;Sandy (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;782
+GRAMATICA;Sandy (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;781
+GRAMATICA;Sandy (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;877
+GRAMATICA;Sandy (Español (España));lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;878
+GRAMATICA;Sandy (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;906
+GRAMATICA;Sandy (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;908
+GRAMATICA;Sandy (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;668
+GRAMATICA;Sandy (Español (España));lejos;termina;TERMINAR;termina;TERMINAR;1;668
+GRAMATICA;Sandy (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;722
+GRAMATICA;Sandy (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;722
+GRAMATICA;Sandy (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;842
+GRAMATICA;Sandy (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;842
+GRAMATICA;Sandy (Español (España));cerca;hola qué tal;-;;-;1;1921
+GRAMATICA;Sandy (Español (España));lejos;hola qué tal;-;;-;1;1923
+GRAMATICA;Sandy (Español (España));cerca;me duele la pierna;-;empieza;EMPEZAR;0;952
+GRAMATICA;Sandy (Español (España));lejos;me duele la pierna;-;;-;1;1915
+GRAMATICA;Sandy (Español (España));cerca;vamos bien;-;;-;1;1933
+GRAMATICA;Sandy (Español (España));lejos;vamos bien;-;;-;1;1932
+GRAMATICA;Sandy (Español (España));cerca;qué calor hace;-;;-;1;1905
+GRAMATICA;Sandy (Español (España));lejos;qué calor hace;-;;-;1;1906
+GRAMATICA;Sandy (Español (España));cerca;esto cuesta mucho;-;;-;1;1929
+GRAMATICA;Sandy (Español (España));lejos;esto cuesta mucho;-;;-;1;1931
+GRAMATICA;Sandy (Español (España));cerca;qué hora es;-;;-;1;2050
+GRAMATICA;Sandy (Español (España));lejos;qué hora es;-;;-;1;2051
+GRAMATICA;Sandy (Español (España));cerca;ya casi está;-;;-;1;1918
+GRAMATICA;Sandy (Español (España));lejos;ya casi está;-;;-;1;1920
+GRAMATICA;Sandy (Español (España));cerca;venga una más;-;;-;1;2013
+GRAMATICA;Sandy (Español (España));lejos;venga una más;-;;-;1;2014
+GRAMATICA;Paulina;cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;751
+GRAMATICA;Paulina;lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;750
+GRAMATICA;Paulina;cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;790
+GRAMATICA;Paulina;lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;791
+GRAMATICA;Paulina;cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;929
+GRAMATICA;Paulina;lejos;sigue;EMPEZAR;sigue;EMPEZAR;1;929
+GRAMATICA;Paulina;cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;865
+GRAMATICA;Paulina;lejos;seguir;EMPEZAR;sigue;EMPEZAR;1;865
+GRAMATICA;Paulina;cerca;pausa;PAUSA;pausa;PAUSA;1;887
+GRAMATICA;Paulina;lejos;pausa;PAUSA;;-;0;1548
+GRAMATICA;Paulina;cerca;para;PAUSA;para;PAUSA;1;734
+GRAMATICA;Paulina;lejos;para;PAUSA;para;PAUSA;1;734
+GRAMATICA;Paulina;cerca;parar;PAUSA;parar;PAUSA;1;918
+GRAMATICA;Paulina;lejos;parar;PAUSA;;-;0;1565
+GRAMATICA;Paulina;cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;908
+GRAMATICA;Paulina;lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;909
+GRAMATICA;Paulina;cerca;terminar;TERMINAR;terminar;TERMINAR;1;768
+GRAMATICA;Paulina;lejos;terminar;TERMINAR;terminar;TERMINAR;1;770
+GRAMATICA;Paulina;cerca;termina;TERMINAR;termina;TERMINAR;1;801
+GRAMATICA;Paulina;lejos;termina;TERMINAR;termina;TERMINAR;1;802
+GRAMATICA;Paulina;cerca;ayuda;AYUDA;ayuda;AYUDA;1;921
+GRAMATICA;Paulina;lejos;ayuda;AYUDA;ayuda;AYUDA;1;921
+GRAMATICA;Paulina;cerca;favorito;FAVORITO;favorito;FAVORITO;1;938
+GRAMATICA;Paulina;lejos;favorito;FAVORITO;favorito;FAVORITO;1;737
+GRAMATICA;Paulina;cerca;hola qué tal;-;;-;1;1557
+GRAMATICA;Paulina;lejos;hola qué tal;-;;-;1;1557
+GRAMATICA;Paulina;cerca;me duele la pierna;-;termina;TERMINAR;0;805
+GRAMATICA;Paulina;lejos;me duele la pierna;-;;-;1;1555
+GRAMATICA;Paulina;cerca;vamos bien;-;;-;1;1550
+GRAMATICA;Paulina;lejos;vamos bien;-;;-;1;1550
+GRAMATICA;Paulina;cerca;qué calor hace;-;sigue;EMPEZAR;0;696
+GRAMATICA;Paulina;lejos;qué calor hace;-;;-;1;1535
+GRAMATICA;Paulina;cerca;esto cuesta mucho;-;;-;1;1552
+GRAMATICA;Paulina;lejos;esto cuesta mucho;-;;-;1;1553
+GRAMATICA;Paulina;cerca;qué hora es;-;;-;1;1567
+GRAMATICA;Paulina;lejos;qué hora es;-;;-;1;1567
+GRAMATICA;Paulina;cerca;ya casi está;-;;-;1;1547
+GRAMATICA;Paulina;lejos;ya casi está;-;;-;1;1548
+GRAMATICA;Paulina;cerca;venga una más;-;;-;1;1564
+GRAMATICA;Paulina;lejos;venga una más;-;;-;1;1565
+RELLENO;Mónica;cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;864
+RELLENO;Mónica;lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;864
+RELLENO;Mónica;cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;849
+RELLENO;Mónica;lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;849
+RELLENO;Mónica;cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;708
+RELLENO;Mónica;lejos;sigue;EMPEZAR;sigue;EMPEZAR;1;708
+RELLENO;Mónica;cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;973
+RELLENO;Mónica;lejos;seguir;EMPEZAR;seguir;EMPEZAR;1;672
+RELLENO;Mónica;cerca;pausa;PAUSA;pausa;PAUSA;1;686
+RELLENO;Mónica;lejos;pausa;PAUSA;pausa;PAUSA;1;686
+RELLENO;Mónica;cerca;para;PAUSA;para;PAUSA;1;831
+RELLENO;Mónica;lejos;para;PAUSA;para;PAUSA;1;831
+RELLENO;Mónica;cerca;parar;PAUSA;parar;PAUSA;1;805
+RELLENO;Mónica;lejos;parar;PAUSA;parar;PAUSA;1;805
+RELLENO;Mónica;cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;783
+RELLENO;Mónica;lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;783
+RELLENO;Mónica;cerca;terminar;TERMINAR;terminar;TERMINAR;1;896
+RELLENO;Mónica;lejos;terminar;TERMINAR;terminar;TERMINAR;1;896
+RELLENO;Mónica;cerca;termina;TERMINAR;termina;TERMINAR;1;934
+RELLENO;Mónica;lejos;termina;TERMINAR;termina;TERMINAR;1;934
+RELLENO;Mónica;cerca;ayuda;AYUDA;ayuda;AYUDA;1;966
+RELLENO;Mónica;lejos;ayuda;AYUDA;ayuda;AYUDA;1;967
+RELLENO;Mónica;cerca;favorito;FAVORITO;favorito;FAVORITO;1;818
+RELLENO;Mónica;lejos;favorito;FAVORITO;favorito;FAVORITO;1;818
+RELLENO;Mónica;cerca;hola qué tal;-;hoy;-;1;246
+RELLENO;Mónica;lejos;hola qué tal;-;;-;1;1538
+RELLENO;Mónica;cerca;me duele la pierna;-;mi le;-;1;0
+RELLENO;Mónica;lejos;me duele la pierna;-;mi;-;1;0
+RELLENO;Mónica;cerca;vamos bien;-;bueno también;-;1;895
+RELLENO;Mónica;lejos;vamos bien;-;siguiente;SIGUIENTE;0;1542
+RELLENO;Mónica;cerca;qué calor hace;-;quien;-;1;192
+RELLENO;Mónica;lejos;qué calor hace;-;así;-;1;1538
+RELLENO;Mónica;cerca;esto cuesta mucho;-;esto esta mucho;-;1;930
+RELLENO;Mónica;lejos;esto cuesta mucho;-;esto mucho;-;1;930
+RELLENO;Mónica;cerca;qué hora es;-;quien;-;1;417
+RELLENO;Mónica;lejos;qué hora es;-;;-;1;1556
+RELLENO;Mónica;cerca;ya casi está;-;ya así esta;-;1;806
+RELLENO;Mónica;lejos;ya casi está;-;siguiente así esta;SIGUIENTE;0;806
+RELLENO;Mónica;cerca;venga una más;-;vida una más;-;1;872
+RELLENO;Mónica;lejos;venga una más;-;vida más;-;1;871
+RELLENO;Eddy (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;876
+RELLENO;Eddy (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;876
+RELLENO;Eddy (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;879
+RELLENO;Eddy (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;880
+RELLENO;Eddy (Español (España));cerca;sigue;EMPEZAR;ir;-;0;730
+RELLENO;Eddy (Español (España));lejos;sigue;EMPEZAR;ir;-;0;731
+RELLENO;Eddy (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;997
+RELLENO;Eddy (Español (España));lejos;seguir;EMPEZAR;seguir;EMPEZAR;1;696
+RELLENO;Eddy (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;792
+RELLENO;Eddy (Español (España));lejos;pausa;PAUSA;pausa;PAUSA;1;792
+RELLENO;Eddy (Español (España));cerca;para;PAUSA;para;PAUSA;1;820
+RELLENO;Eddy (Español (España));lejos;para;PAUSA;para;PAUSA;1;820
+RELLENO;Eddy (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;747
+RELLENO;Eddy (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;747
+RELLENO;Eddy (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;881
+RELLENO;Eddy (Español (España));lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;880
+RELLENO;Eddy (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;877
+RELLENO;Eddy (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;877
+RELLENO;Eddy (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;973
+RELLENO;Eddy (Español (España));lejos;termina;TERMINAR;termina;TERMINAR;1;974
+RELLENO;Eddy (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;726
+RELLENO;Eddy (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;727
+RELLENO;Eddy (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;851
+RELLENO;Eddy (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;852
+RELLENO;Eddy (Español (España));cerca;hola qué tal;-;;-;1;1931
+RELLENO;Eddy (Español (España));lejos;hola qué tal;-;;-;1;1930
+RELLENO;Eddy (Español (España));cerca;me duele la pierna;-;una;-;1;1932
+RELLENO;Eddy (Español (España));lejos;me duele la pierna;-;;-;1;1926
+RELLENO;Eddy (Español (España));cerca;vamos bien;-;;-;1;1910
+RELLENO;Eddy (Español (España));lejos;vamos bien;-;;-;1;1913
+RELLENO;Eddy (Español (España));cerca;qué calor hace;-;ahora te;-;1;1912
+RELLENO;Eddy (Español (España));lejos;qué calor hace;-;;-;1;1913
+RELLENO;Eddy (Español (España));cerca;esto cuesta mucho;-;esto o esta mucho;-;1;983
+RELLENO;Eddy (Español (España));lejos;esto cuesta mucho;-;esto esta mucho;-;1;983
+RELLENO;Eddy (Español (España));cerca;qué hora es;-;querer ahora;-;1;1949
+RELLENO;Eddy (Español (España));lejos;qué hora es;-;;-;1;1944
+RELLENO;Eddy (Español (España));cerca;ya casi está;-;casa esta;-;1;733
+RELLENO;Eddy (Español (España));lejos;ya casi está;-;esta;-;1;730
+RELLENO;Eddy (Español (España));cerca;venga una más;-;;-;1;1958
+RELLENO;Eddy (Español (España));lejos;venga una más;-;más;-;1;1954
+RELLENO;Flo (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;879
+RELLENO;Flo (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;879
+RELLENO;Flo (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;880
+RELLENO;Flo (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;880
+RELLENO;Flo (Español (España));cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;729
+RELLENO;Flo (Español (España));lejos;sigue;EMPEZAR;ir;-;0;1922
+RELLENO;Flo (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;1008
+RELLENO;Flo (Español (España));lejos;seguir;EMPEZAR;;-;0;1994
+RELLENO;Flo (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;791
+RELLENO;Flo (Español (España));lejos;pausa;PAUSA;pausa;PAUSA;1;791
+RELLENO;Flo (Español (España));cerca;para;PAUSA;para;PAUSA;1;821
+RELLENO;Flo (Español (España));lejos;para;PAUSA;para;PAUSA;1;1905
+RELLENO;Flo (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;764
+RELLENO;Flo (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;764
+RELLENO;Flo (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;883
+RELLENO;Flo (Español (España));lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;883
+RELLENO;Flo (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;894
+RELLENO;Flo (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;894
+RELLENO;Flo (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;971
+RELLENO;Flo (Español (España));lejos;termina;TERMINAR;termina;TERMINAR;1;971
+RELLENO;Flo (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;723
+RELLENO;Flo (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;723
+RELLENO;Flo (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;857
+RELLENO;Flo (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;857
+RELLENO;Flo (Español (España));cerca;hola qué tal;-;una;-;1;494
+RELLENO;Flo (Español (España));lejos;hola qué tal;-;uno;-;1;495
+RELLENO;Flo (Español (España));cerca;me duele la pierna;-;lo perder;-;1;1940
+RELLENO;Flo (Español (España));lejos;me duele la pierna;-;;-;1;1938
+RELLENO;Flo (Español (España));cerca;vamos bien;-;;-;1;1940
+RELLENO;Flo (Español (España));lejos;vamos bien;-;;-;1;1942
+RELLENO;Flo (Español (España));cerca;qué calor hace;-;hacer;-;1;834
+RELLENO;Flo (Español (España));lejos;qué calor hace;-;;-;1;1920
+RELLENO;Flo (Español (España));cerca;esto cuesta mucho;-;esto o esto mucho;-;1;977
+RELLENO;Flo (Español (España));lejos;esto cuesta mucho;-;eso mucho;-;1;978
+RELLENO;Flo (Español (España));cerca;qué hora es;-;;-;1;1946
+RELLENO;Flo (Español (España));lejos;qué hora es;-;;-;1;1946
+RELLENO;Flo (Español (España));cerca;ya casi está;-;yo casa esta;-;1;734
+RELLENO;Flo (Español (España));lejos;ya casi está;-;esa;-;1;1923
+RELLENO;Flo (Español (España));cerca;venga una más;-;nunca donde más;-;1;626
+RELLENO;Flo (Español (España));lejos;venga una más;-;más;-;1;835
+RELLENO;Reed (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;877
+RELLENO;Reed (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;877
+RELLENO;Reed (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;879
+RELLENO;Reed (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;879
+RELLENO;Reed (Español (España));cerca;sigue;EMPEZAR;;-;0;1919
+RELLENO;Reed (Español (España));lejos;sigue;EMPEZAR;ir;-;0;730
+RELLENO;Reed (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;979
+RELLENO;Reed (Español (España));lejos;seguir;EMPEZAR;seguir;EMPEZAR;1;979
+RELLENO;Reed (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;791
+RELLENO;Reed (Español (España));lejos;pausa;PAUSA;pausa;PAUSA;1;791
+RELLENO;Reed (Español (España));cerca;para;PAUSA;para;PAUSA;1;819
+RELLENO;Reed (Español (España));lejos;para;PAUSA;para;PAUSA;1;820
+RELLENO;Reed (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;747
+RELLENO;Reed (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;747
+RELLENO;Reed (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;880
+RELLENO;Reed (Español (España));lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;880
+RELLENO;Reed (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;878
+RELLENO;Reed (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;878
+RELLENO;Reed (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;965
+RELLENO;Reed (Español (España));lejos;termina;TERMINAR;terminar;TERMINAR;1;966
+RELLENO;Reed (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;725
+RELLENO;Reed (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;725
+RELLENO;Reed (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;844
+RELLENO;Reed (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;844
+RELLENO;Reed (Español (España));cerca;hola qué tal;-;;-;1;1931
+RELLENO;Reed (Español (España));lejos;hola qué tal;-;;-;1;1934
+RELLENO;Reed (Español (España));cerca;me duele la pierna;-;una;-;1;1929
+RELLENO;Reed (Español (España));lejos;me duele la pierna;-;;-;1;1925
+RELLENO;Reed (Español (España));cerca;vamos bien;-;;-;1;1910
+RELLENO;Reed (Español (España));lejos;vamos bien;-;;-;1;1913
+RELLENO;Reed (Español (España));cerca;qué calor hace;-;durante;-;1;831
+RELLENO;Reed (Español (España));lejos;qué calor hace;-;durante;-;1;831
+RELLENO;Reed (Español (España));cerca;esto cuesta mucho;-;esto esta mucho;-;1;966
+RELLENO;Reed (Español (España));lejos;esto cuesta mucho;-;esto esta mucho;-;1;967
+RELLENO;Reed (Español (España));cerca;qué hora es;-;querer;-;1;317
+RELLENO;Reed (Español (España));lejos;qué hora es;-;ahora;-;1;1943
+RELLENO;Reed (Español (España));cerca;ya casi está;-;esta;-;1;730
+RELLENO;Reed (Español (España));lejos;ya casi está;-;esta;-;1;734
+RELLENO;Reed (Español (España));cerca;venga una más;-;;-;1;1956
+RELLENO;Reed (Español (España));lejos;venga una más;-;más;-;1;1956
+RELLENO;Sandy (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;903
+RELLENO;Sandy (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;903
+RELLENO;Sandy (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;880
+RELLENO;Sandy (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;881
+RELLENO;Sandy (Español (España));cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;732
+RELLENO;Sandy (Español (España));lejos;sigue;EMPEZAR;;-;0;1923
+RELLENO;Sandy (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;1013
+RELLENO;Sandy (Español (España));lejos;seguir;EMPEZAR;;-;0;1996
+RELLENO;Sandy (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;790
+RELLENO;Sandy (Español (España));lejos;pausa;PAUSA;;-;0;1912
+RELLENO;Sandy (Español (España));cerca;para;PAUSA;para;PAUSA;1;820
+RELLENO;Sandy (Español (España));lejos;para;PAUSA;;-;0;1907
+RELLENO;Sandy (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;783
+RELLENO;Sandy (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;2001
+RELLENO;Sandy (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;878
+RELLENO;Sandy (Español (España));lejos;siguiente;SIGUIENTE;;-;0;1919
+RELLENO;Sandy (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;908
+RELLENO;Sandy (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;908
+RELLENO;Sandy (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;669
+RELLENO;Sandy (Español (España));lejos;termina;TERMINAR;termina;TERMINAR;1;670
+RELLENO;Sandy (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;724
+RELLENO;Sandy (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;724
+RELLENO;Sandy (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;843
+RELLENO;Sandy (Español (España));lejos;favorito;FAVORITO;;-;0;1932
+RELLENO;Sandy (Español (España));cerca;hola qué tal;-;una;-;1;1937
+RELLENO;Sandy (Español (España));lejos;hola qué tal;-;;-;1;1933
+RELLENO;Sandy (Español (España));cerca;me duele la pierna;-;empieza;EMPEZAR;0;960
+RELLENO;Sandy (Español (España));lejos;me duele la pierna;-;;-;1;1930
+RELLENO;Sandy (Español (España));cerca;vamos bien;-;ni;-;1;1947
+RELLENO;Sandy (Español (España));lejos;vamos bien;-;;-;1;1938
+RELLENO;Sandy (Español (España));cerca;qué calor hace;-;así;-;1;833
+RELLENO;Sandy (Español (España));lejos;qué calor hace;-;;-;1;1913
+RELLENO;Sandy (Español (España));cerca;esto cuesta mucho;-;esto esta mucho;-;1;980
+RELLENO;Sandy (Español (España));lejos;esto cuesta mucho;-;mucho;-;1;1937
+RELLENO;Sandy (Español (España));cerca;qué hora es;-;ahora;-;1;2056
+RELLENO;Sandy (Español (España));lejos;qué hora es;-;;-;1;2052
+RELLENO;Sandy (Español (España));cerca;ya casi está;-;nunca así esta;-;1;733
+RELLENO;Sandy (Español (España));lejos;ya casi está;-;;-;1;1930
+RELLENO;Sandy (Español (España));cerca;venga una más;-;nunca una más;-;1;896
+RELLENO;Sandy (Español (España));lejos;venga una más;-;;-;1;2025
+RELLENO;Paulina;cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;751
+RELLENO;Paulina;lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;751
+RELLENO;Paulina;cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;792
+RELLENO;Paulina;lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;792
+RELLENO;Paulina;cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;929
+RELLENO;Paulina;lejos;sigue;EMPEZAR;sigue;EMPEZAR;1;930
+RELLENO;Paulina;cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;865
+RELLENO;Paulina;lejos;seguir;EMPEZAR;sí;-;0;865
+RELLENO;Paulina;cerca;pausa;PAUSA;pausa;PAUSA;1;887
+RELLENO;Paulina;lejos;pausa;PAUSA;;-;0;1551
+RELLENO;Paulina;cerca;para;PAUSA;para;PAUSA;1;733
+RELLENO;Paulina;lejos;para;PAUSA;;-;0;1543
+RELLENO;Paulina;cerca;parar;PAUSA;parar;PAUSA;1;918
+RELLENO;Paulina;lejos;parar;PAUSA;;-;0;1566
+RELLENO;Paulina;cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;909
+RELLENO;Paulina;lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;910
+RELLENO;Paulina;cerca;terminar;TERMINAR;terminar;TERMINAR;1;770
+RELLENO;Paulina;lejos;terminar;TERMINAR;más;-;0;976
+RELLENO;Paulina;cerca;termina;TERMINAR;termina;TERMINAR;1;801
+RELLENO;Paulina;lejos;termina;TERMINAR;mismo;-;0;801
+RELLENO;Paulina;cerca;ayuda;AYUDA;ayuda;AYUDA;1;922
+RELLENO;Paulina;lejos;ayuda;AYUDA;ayuda;AYUDA;1;922
+RELLENO;Paulina;cerca;favorito;FAVORITO;favorito;FAVORITO;1;938
+RELLENO;Paulina;lejos;favorito;FAVORITO;favorito;FAVORITO;1;738
+RELLENO;Paulina;cerca;hola qué tal;-;aquí;-;1;329
+RELLENO;Paulina;lejos;hola qué tal;-;una;-;1;329
+RELLENO;Paulina;cerca;me duele la pierna;-;ni;-;1;0
+RELLENO;Paulina;lejos;me duele la pierna;-;ni;-;1;0
+RELLENO;Paulina;cerca;vamos bien;-;también;-;1;802
+RELLENO;Paulina;lejos;vamos bien;-;sin;-;1;1558
+RELLENO;Paulina;cerca;qué calor hace;-;ahora ese;-;1;698
+RELLENO;Paulina;lejos;qué calor hace;-;así;-;1;698
+RELLENO;Paulina;cerca;esto cuesta mucho;-;esto esta mucho;-;1;896
+RELLENO;Paulina;lejos;esto cuesta mucho;-;mucho;-;1;896
+RELLENO;Paulina;cerca;qué hora es;-;quien;-;1;176
+RELLENO;Paulina;lejos;qué hora es;-;;-;1;1570
+RELLENO;Paulina;cerca;ya casi está;-;ya así esta;-;1;854
+RELLENO;Paulina;lejos;ya casi está;-;ya así esa;-;1;553
+RELLENO;Paulina;cerca;venga una más;-;una más;-;1;848
+RELLENO;Paulina;lejos;venga una más;-;vida una más;-;1;848
+LIBRE;Mónica;cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;1411
+LIBRE;Mónica;lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;1415
+LIBRE;Mónica;cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;1387
+LIBRE;Mónica;lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;1372
+LIBRE;Mónica;cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;1255
+LIBRE;Mónica;lejos;sigue;EMPEZAR;sigue;EMPEZAR;1;1247
+LIBRE;Mónica;cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;1496
+LIBRE;Mónica;lejos;seguir;EMPEZAR;seguir;EMPEZAR;1;1516
+LIBRE;Mónica;cerca;pausa;PAUSA;pausa;PAUSA;1;712
+LIBRE;Mónica;lejos;pausa;PAUSA;falsa;-;0;1511
+LIBRE;Mónica;cerca;para;PAUSA;para;PAUSA;1;1361
+LIBRE;Mónica;lejos;para;PAUSA;para;PAUSA;1;1352
+LIBRE;Mónica;cerca;parar;PAUSA;parar;PAUSA;1;828
+LIBRE;Mónica;lejos;parar;PAUSA;para;PAUSA;1;1338
+LIBRE;Mónica;cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;803
+LIBRE;Mónica;lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;807
+LIBRE;Mónica;cerca;terminar;TERMINAR;terminar;TERMINAR;1;927
+LIBRE;Mónica;lejos;terminar;TERMINAR;terminar;TERMINAR;1;905
+LIBRE;Mónica;cerca;termina;TERMINAR;termina;TERMINAR;1;1462
+LIBRE;Mónica;lejos;termina;TERMINAR;termina;TERMINAR;1;1454
+LIBRE;Mónica;cerca;ayuda;AYUDA;ayuda;AYUDA;1;993
+LIBRE;Mónica;lejos;ayuda;AYUDA;ayuda;AYUDA;1;677
+LIBRE;Mónica;cerca;favorito;FAVORITO;favorito;FAVORITO;1;850
+LIBRE;Mónica;lejos;favorito;FAVORITO;favorito;FAVORITO;1;872
+LIBRE;Mónica;cerca;hola qué tal;-;hola qué tal;-;1;1483
+LIBRE;Mónica;lejos;hola qué tal;-;hola qué tal;-;1;1539
+LIBRE;Mónica;cerca;me duele la pierna;-;me duele la pierna;-;1;1376
+LIBRE;Mónica;lejos;me duele la pierna;-;me duele la pierna;-;1;1371
+LIBRE;Mónica;cerca;vamos bien;-;vamos bien;-;1;1426
+LIBRE;Mónica;lejos;vamos bien;-;vemos bien;-;1;1438
+LIBRE;Mónica;cerca;qué calor hace;-;qué calor hace;-;1;1409
+LIBRE;Mónica;lejos;qué calor hace;-;quizá así;-;1;1600
+LIBRE;Mónica;cerca;esto cuesta mucho;-;esto cuesta mucho;-;1;1360
+LIBRE;Mónica;lejos;esto cuesta mucho;-;esto cuesta mucho;-;1;1346
+LIBRE;Mónica;cerca;qué hora es;-;qué hora es;-;1;1504
+LIBRE;Mónica;lejos;qué hora es;-;sí;-;1;1602
+LIBRE;Mónica;cerca;ya casi está;-;ya casi está;-;1;1342
+LIBRE;Mónica;lejos;ya casi está;-;ya si está;-;1;1333
+LIBRE;Mónica;cerca;venga una más;-;vida una más;-;1;1395
+LIBRE;Mónica;lejos;venga una más;-;vida más;-;1;1427
+LIBRE;Eddy (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;1398
+LIBRE;Eddy (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;1393
+LIBRE;Eddy (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;1441
+LIBRE;Eddy (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;1421
+LIBRE;Eddy (Español (España));cerca;sigue;EMPEZAR;sí;-;0;1946
+LIBRE;Eddy (Español (España));lejos;sigue;EMPEZAR;sí;-;0;1960
+LIBRE;Eddy (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;1531
+LIBRE;Eddy (Español (España));lejos;seguir;EMPEZAR;serio;-;0;2012
+LIBRE;Eddy (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;834
+LIBRE;Eddy (Español (España));lejos;pausa;PAUSA;pausa;PAUSA;1;826
+LIBRE;Eddy (Español (España));cerca;para;PAUSA;para;PAUSA;1;1345
+LIBRE;Eddy (Español (España));lejos;para;PAUSA;para;PAUSA;1;1340
+LIBRE;Eddy (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;786
+LIBRE;Eddy (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;783
+LIBRE;Eddy (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;2009
+LIBRE;Eddy (Español (España));lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;1984
+LIBRE;Eddy (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;908
+LIBRE;Eddy (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;892
+LIBRE;Eddy (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;1505
+LIBRE;Eddy (Español (España));lejos;termina;TERMINAR;terminar;TERMINAR;1;1496
+LIBRE;Eddy (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;763
+LIBRE;Eddy (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;783
+LIBRE;Eddy (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;905
+LIBRE;Eddy (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;882
+LIBRE;Eddy (Español (España));cerca;hola qué tal;-;hola qué tal;-;1;1337
+LIBRE;Eddy (Español (España));lejos;hola qué tal;-;hola qué tal;-;1;1326
+LIBRE;Eddy (Español (España));cerca;me duele la pierna;-;me duele la pierna;-;1;1373
+LIBRE;Eddy (Español (España));lejos;me duele la pierna;-;me duele la pierna;-;1;1381
+LIBRE;Eddy (Español (España));cerca;vamos bien;-;vamos bien;-;1;1338
+LIBRE;Eddy (Español (España));lejos;vamos bien;-;vamos bien;-;1;1329
+LIBRE;Eddy (Español (España));cerca;qué calor hace;-;qué calor hace;-;1;1342
+LIBRE;Eddy (Español (España));lejos;qué calor hace;-;qué calor;-;1;1351
+LIBRE;Eddy (Español (España));cerca;esto cuesta mucho;-;esto cuesta mucho;-;1;1419
+LIBRE;Eddy (Español (España));lejos;esto cuesta mucho;-;esto cuesta mucho;-;1;1400
+LIBRE;Eddy (Español (España));cerca;qué hora es;-;qué hora es;-;1;1338
+LIBRE;Eddy (Español (España));lejos;qué hora es;-;qué hora es;-;1;1369
+LIBRE;Eddy (Español (España));cerca;ya casi está;-;ya casi está;-;1;1262
+LIBRE;Eddy (Español (España));lejos;ya casi está;-;ya casi está;-;1;1249
+LIBRE;Eddy (Español (España));cerca;venga una más;-;venga;-;1;895
+LIBRE;Eddy (Español (España));lejos;venga una más;-;me encanta mal;-;1;1373
+LIBRE;Flo (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;1434
+LIBRE;Flo (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;1407
+LIBRE;Flo (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;1423
+LIBRE;Flo (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;1420
+LIBRE;Flo (Español (España));cerca;sigue;EMPEZAR;sí;-;0;1292
+LIBRE;Flo (Español (España));lejos;sigue;EMPEZAR;;-;0;1959
+LIBRE;Flo (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;1607
+LIBRE;Flo (Español (España));lejos;seguir;EMPEZAR;;-;0;2019
+LIBRE;Flo (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;858
+LIBRE;Flo (Español (España));lejos;pausa;PAUSA;pausa;PAUSA;1;838
+LIBRE;Flo (Español (España));cerca;para;PAUSA;para;PAUSA;1;1359
+LIBRE;Flo (Español (España));lejos;para;PAUSA;para;PAUSA;1;1341
+LIBRE;Flo (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;804
+LIBRE;Flo (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;1285
+LIBRE;Flo (Español (España));cerca;siguiente;SIGUIENTE;siguientes;-;0;1437
+LIBRE;Flo (Español (España));lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;1979
+LIBRE;Flo (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;910
+LIBRE;Flo (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;906
+LIBRE;Flo (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;1491
+LIBRE;Flo (Español (España));lejos;termina;TERMINAR;terminar;TERMINAR;1;1510
+LIBRE;Flo (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;774
+LIBRE;Flo (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;1991
+LIBRE;Flo (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;904
+LIBRE;Flo (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;911
+LIBRE;Flo (Español (España));cerca;hola qué tal;-;una que están;-;1;1382
+LIBRE;Flo (Español (España));lejos;hola qué tal;-;una;-;1;1106
+LIBRE;Flo (Español (España));cerca;me duele la pierna;-;me duele lo pierdas;-;1;979
+LIBRE;Flo (Español (España));lejos;me duele la pierna;-;me duele la pierna;-;1;1439
+LIBRE;Flo (Español (España));cerca;vamos bien;-;vamos bien;-;1;1365
+LIBRE;Flo (Español (España));lejos;vamos bien;-;vamos bien;-;1;1055
+LIBRE;Flo (Español (España));cerca;qué calor hace;-;qué calor hace;-;1;1364
+LIBRE;Flo (Español (España));lejos;qué calor hace;-;calor hace;-;1;1979
+LIBRE;Flo (Español (España));cerca;esto cuesta mucho;-;esto cuesta mucho;-;1;1413
+LIBRE;Flo (Español (España));lejos;esto cuesta mucho;-;eso cuesta mucho;-;1;1411
+LIBRE;Flo (Español (España));cerca;qué hora es;-;qué hora es;-;1;1364
+LIBRE;Flo (Español (España));lejos;qué hora es;-;qué hora es;-;1;1401
+LIBRE;Flo (Español (España));cerca;ya casi está;-;ya casi está;-;1;1256
+LIBRE;Flo (Español (España));lejos;ya casi está;-;yo;-;1;1983
+LIBRE;Flo (Español (España));cerca;venga una más;-;venga una más;-;1;1374
+LIBRE;Flo (Español (España));lejos;venga una más;-;una más;-;1;1406
+LIBRE;Reed (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;1404
+LIBRE;Reed (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;1393
+LIBRE;Reed (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;1416
+LIBRE;Reed (Español (España));lejos;empieza;EMPEZAR;empieza;EMPEZAR;1;1406
+LIBRE;Reed (Español (España));cerca;sigue;EMPEZAR;sí;-;0;1950
+LIBRE;Reed (Español (España));lejos;sigue;EMPEZAR;sí;-;0;1952
+LIBRE;Reed (Español (España));cerca;seguir;EMPEZAR;serio;-;0;1501
+LIBRE;Reed (Español (España));lejos;seguir;EMPEZAR;serio;-;0;1989
+LIBRE;Reed (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;844
+LIBRE;Reed (Español (España));lejos;pausa;PAUSA;pausa;PAUSA;1;846
+LIBRE;Reed (Español (España));cerca;para;PAUSA;para;PAUSA;1;1348
+LIBRE;Reed (Español (España));lejos;para;PAUSA;para;PAUSA;1;1343
+LIBRE;Reed (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;780
+LIBRE;Reed (Español (España));lejos;parar;PAUSA;parar;PAUSA;1;762
+LIBRE;Reed (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;2011
+LIBRE;Reed (Español (España));lejos;siguiente;SIGUIENTE;dientes;-;0;1435
+LIBRE;Reed (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;920
+LIBRE;Reed (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;896
+LIBRE;Reed (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;1501
+LIBRE;Reed (Español (España));lejos;termina;TERMINAR;terminar;TERMINAR;1;982
+LIBRE;Reed (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;753
+LIBRE;Reed (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;1299
+LIBRE;Reed (Español (España));cerca;favorito;FAVORITO;favorito;FAVORITO;1;901
+LIBRE;Reed (Español (España));lejos;favorito;FAVORITO;favorito;FAVORITO;1;887
+LIBRE;Reed (Español (España));cerca;hola qué tal;-;hola qué tal;-;1;1345
+LIBRE;Reed (Español (España));lejos;hola qué tal;-;hola qué tal;-;1;1367
+LIBRE;Reed (Español (España));cerca;me duele la pierna;-;me duele la pierna;-;1;1380
+LIBRE;Reed (Español (España));lejos;me duele la pierna;-;me duele la pierna;-;1;1382
+LIBRE;Reed (Español (España));cerca;vamos bien;-;vamos bien;-;1;1344
+LIBRE;Reed (Español (España));lejos;vamos bien;-;vamos bien;-;1;1325
+LIBRE;Reed (Español (España));cerca;qué calor hace;-;qué calor hace;-;1;1360
+LIBRE;Reed (Español (España));lejos;qué calor hace;-;qué calor hace;-;1;1366
+LIBRE;Reed (Español (España));cerca;esto cuesta mucho;-;esto cuesta mucho;-;1;1414
+LIBRE;Reed (Español (España));lejos;esto cuesta mucho;-;esto cuesta mucho;-;1;1386
+LIBRE;Reed (Español (España));cerca;qué hora es;-;qué hora es;-;1;1373
+LIBRE;Reed (Español (España));lejos;qué hora es;-;qué hora es;-;1;1401
+LIBRE;Reed (Español (España));cerca;ya casi está;-;ya casi está;-;1;1267
+LIBRE;Reed (Español (España));lejos;ya casi está;-;ya casi está;-;1;1259
+LIBRE;Reed (Español (España));cerca;venga una más;-;venga vas;-;1;1192
+LIBRE;Reed (Español (España));lejos;venga una más;-;me encanta mal;-;1;1187
+LIBRE;Sandy (Español (España));cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;1443
+LIBRE;Sandy (Español (España));lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;2023
+LIBRE;Sandy (Español (España));cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;1428
+LIBRE;Sandy (Español (España));lejos;empieza;EMPEZAR;mesa;-;0;1973
+LIBRE;Sandy (Español (España));cerca;sigue;EMPEZAR;sí;-;0;1256
+LIBRE;Sandy (Español (España));lejos;sigue;EMPEZAR;;-;0;1961
+LIBRE;Sandy (Español (España));cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;1597
+LIBRE;Sandy (Español (España));lejos;seguir;EMPEZAR;;-;0;2032
+LIBRE;Sandy (Español (España));cerca;pausa;PAUSA;pausa;PAUSA;1;2006
+LIBRE;Sandy (Español (España));lejos;pausa;PAUSA;;-;0;2014
+LIBRE;Sandy (Español (España));cerca;para;PAUSA;para;PAUSA;1;1358
+LIBRE;Sandy (Español (España));lejos;para;PAUSA;para;PAUSA;1;1928
+LIBRE;Sandy (Español (España));cerca;parar;PAUSA;parar;PAUSA;1;836
+LIBRE;Sandy (Español (España));lejos;parar;PAUSA;;-;0;2025
+LIBRE;Sandy (Español (España));cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;972
+LIBRE;Sandy (Español (España));lejos;siguiente;SIGUIENTE;;-;0;2020
+LIBRE;Sandy (Español (España));cerca;terminar;TERMINAR;terminar;TERMINAR;1;938
+LIBRE;Sandy (Español (España));lejos;terminar;TERMINAR;terminar;TERMINAR;1;2061
+LIBRE;Sandy (Español (España));cerca;termina;TERMINAR;termina;TERMINAR;1;1493
+LIBRE;Sandy (Español (España));lejos;termina;TERMINAR;lima;-;0;1994
+LIBRE;Sandy (Español (España));cerca;ayuda;AYUDA;ayuda;AYUDA;1;1283
+LIBRE;Sandy (Español (España));lejos;ayuda;AYUDA;ayuda;AYUDA;1;2058
+LIBRE;Sandy (Español (España));cerca;favorito;FAVORITO;la manito;-;0;1443
+LIBRE;Sandy (Español (España));lejos;favorito;FAVORITO;amarillo;-;0;2055
+LIBRE;Sandy (Español (España));cerca;hola qué tal;-;hola qué tal;-;1;1358
+LIBRE;Sandy (Español (España));lejos;hola qué tal;-;hola;-;1;2069
+LIBRE;Sandy (Español (España));cerca;me duele la pierna;-;me duele la pierna;-;1;1398
+LIBRE;Sandy (Español (España));lejos;me duele la pierna;-;la latina;-;1;2008
+LIBRE;Sandy (Español (España));cerca;vamos bien;-;vamos bien;-;1;1376
+LIBRE;Sandy (Español (España));lejos;vamos bien;-;;-;1;1964
+LIBRE;Sandy (Español (España));cerca;qué calor hace;-;qué calor hace;-;1;1396
+LIBRE;Sandy (Español (España));lejos;qué calor hace;-;quizá no era;-;1;2004
+LIBRE;Sandy (Español (España));cerca;esto cuesta mucho;-;esto cuesta mucho;-;1;1415
+LIBRE;Sandy (Español (España));lejos;esto cuesta mucho;-;utiliza mucho;-;1;1408
+LIBRE;Sandy (Español (España));cerca;qué hora es;-;qué hora es;-;1;1499
+LIBRE;Sandy (Español (España));lejos;qué hora es;-;;-;1;2076
+LIBRE;Sandy (Español (España));cerca;ya casi está;-;ya casi está;-;1;1263
+LIBRE;Sandy (Español (España));lejos;ya casi está;-;;-;1;1942
+LIBRE;Sandy (Español (España));cerca;venga una más;-;una más;-;1;1462
+LIBRE;Sandy (Español (España));lejos;venga una más;-;más;-;1;2136
+LIBRE;Paulina;cerca;empezar;EMPEZAR;empezar;EMPEZAR;1;1498
+LIBRE;Paulina;lejos;empezar;EMPEZAR;empezar;EMPEZAR;1;1302
+LIBRE;Paulina;cerca;empieza;EMPEZAR;empieza;EMPEZAR;1;1345
+LIBRE;Paulina;lejos;empieza;EMPEZAR;en quizá;-;0;1352
+LIBRE;Paulina;cerca;sigue;EMPEZAR;sigue;EMPEZAR;1;1446
+LIBRE;Paulina;lejos;sigue;EMPEZAR;siete;-;0;1588
+LIBRE;Paulina;cerca;seguir;EMPEZAR;seguir;EMPEZAR;1;1397
+LIBRE;Paulina;lejos;seguir;EMPEZAR;sí;-;0;1390
+LIBRE;Paulina;cerca;pausa;PAUSA;pausa;PAUSA;1;921
+LIBRE;Paulina;lejos;pausa;PAUSA;santa;-;0;1595
+LIBRE;Paulina;cerca;para;PAUSA;para;PAUSA;1;1271
+LIBRE;Paulina;lejos;para;PAUSA;para;PAUSA;1;1569
+LIBRE;Paulina;cerca;parar;PAUSA;para parar;PAUSA;1;1460
+LIBRE;Paulina;lejos;parar;PAUSA;;-;0;1584
+LIBRE;Paulina;cerca;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;942
+LIBRE;Paulina;lejos;siguiente;SIGUIENTE;siguiente;SIGUIENTE;1;955
+LIBRE;Paulina;cerca;terminar;TERMINAR;terminar;TERMINAR;1;808
+LIBRE;Paulina;lejos;terminar;TERMINAR;fitness;-;0;1540
+LIBRE;Paulina;cerca;termina;TERMINAR;termina;TERMINAR;1;1344
+LIBRE;Paulina;lejos;termina;TERMINAR;mismo;-;0;1614
+LIBRE;Paulina;cerca;ayuda;AYUDA;ayuda;AYUDA;1;936
+LIBRE;Paulina;lejos;ayuda;AYUDA;ayuda;AYUDA;1;961
+LIBRE;Paulina;cerca;favorito;FAVORITO;favorito;FAVORITO;1;993
+LIBRE;Paulina;lejos;favorito;FAVORITO;favorito;FAVORITO;1;876
+LIBRE;Paulina;cerca;hola qué tal;-;hola qué tal;-;1;1362
+LIBRE;Paulina;lejos;hola qué tal;-;una cita en;-;1;1397
+LIBRE;Paulina;cerca;me duele la pierna;-;me duele la pierna;-;1;1253
+LIBRE;Paulina;lejos;me duele la pierna;-;mi wine y la pierna;-;1;1294
+LIBRE;Paulina;cerca;vamos bien;-;vamos bien;-;1;1355
+LIBRE;Paulina;lejos;vamos bien;-;damos fin;-;1;1370
+LIBRE;Paulina;cerca;qué calor hace;-;qué calor hace;-;1;1436
+LIBRE;Paulina;lejos;qué calor hace;-;quizá no nace;-;1;1426
+LIBRE;Paulina;cerca;esto cuesta mucho;-;esto cuesta mucho;-;1;1418
+LIBRE;Paulina;lejos;esto cuesta mucho;-;tú fuiste mucho;-;1;1435
+LIBRE;Paulina;cerca;qué hora es;-;qué hora es;-;1;1406
+LIBRE;Paulina;lejos;qué hora es;-;;-;1;1620
+LIBRE;Paulina;cerca;ya casi está;-;ya casi está;-;1;1275
+LIBRE;Paulina;lejos;ya casi está;-;ya casi está;-;1;1292
+LIBRE;Paulina;cerca;venga una más;-;venga una más;-;1;1280
+LIBRE;Paulina;lejos;venga una más;-;venga una más;-;1;1294

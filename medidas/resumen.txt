@@ -1,0 +1,10 @@
+VOZ (Vosk small-es 0.42) · 6 voces × 20 frases (12 órdenes y 8 que no lo son)
+  gramática cerrada, cerca: órdenes bien 72/72 (100 %) · frases normales tomadas por orden 8/48 · latencia media 838 ms · p90 966 ms
+  gramática cerrada, lejos: órdenes bien 67/72 (93 %) · frases normales tomadas por orden 2/48 · latencia media 869 ms · p90 971 ms
+  gramática con relleno, cerca: órdenes bien 70/72 (97 %) · frases normales tomadas por orden 1/48 · latencia media 846 ms · p90 971 ms
+  gramática con relleno, lejos: órdenes bien 56/72 (77 %) · frases normales tomadas por orden 2/48 · latencia media 874 ms · p90 967 ms
+  habla libre, cerca: órdenes bien 65/72 (90 %) · frases normales tomadas por orden 0/48 · latencia media 1201 ms · p90 1505 ms
+  habla libre, lejos: órdenes bien 49/72 (68 %) · frases normales tomadas por orden 0/48 · latencia media 1263 ms · p90 1984 ms
+POSTURA (MediaPipe Pose ONNX + OpenCV DNN, 640×480 → 256×256) · 100 imágenes
+  inferencia media 15,9 ms · p90 17,0 ms · máximo teórico 63 imágenes/s
+  Equipo: Mac OS X aarch64, 12 núcleos
